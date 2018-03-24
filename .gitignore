@@ -1,0 +1,7 @@
+nimcache
+src/*/*
+!src/*/*.nim
+!src/*/*.c
+!src/*/*.cpp
+!src/*/*.py
+!src/*/*.rb
