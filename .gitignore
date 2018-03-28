@@ -1,9 +1,9 @@
 nimcache
 src/*/*
 !src/*/*.nim
+!src/*/*.nim.config
 !src/*/*.c
 !src/*/*.cpp
 !src/*/*.py
 !src/*/*.rb
-!src/*/*.go
 !src/*/*.txt
