@@ -7,3 +7,4 @@ src/*/*
 !src/*/*.py
 !src/*/*.rb
 !src/*/*.txt
+!src/*/*.json
