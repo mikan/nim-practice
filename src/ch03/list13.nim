@@ -15,6 +15,6 @@ var sv = new Server
 echo(sv.clients.len)
 
 #[
-$ nim c -r lsit13
+$ nim c -r list13
 0
 ]#
